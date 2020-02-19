@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureCardReader": {
+      "commandName": "Project",
+      "commandLineArgs": "https://i.imgur.com/caaxHXn.jpg test.txt"
+    }
+  }
+}
